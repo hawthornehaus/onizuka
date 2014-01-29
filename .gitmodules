@@ -1,0 +1,18 @@
+[submodule "onizuka-sim"]
+	path = onizuka-sim
+	url = git://github.com/crertel/onizuka-sim.git
+[submodule "onizuka-asset-server"]
+	path = onizuka-asset-server
+	url = git://github.com/crertel/onizuka-asset-server.git
+[submodule "onizuka-oculus-client"]
+	path = onizuka-oculus-client
+	url = git://github.com/crertel/onizuka-oculus-client.git
+[submodule "onizuka-web-client"]
+	path = onizuka-web-client
+	url = git://github.com/crertel/onizuka-web-client.git
+[submodule "onizuka-camera-server"]
+	path = onizuka-camera-server
+	url = git://github.com/crertel/onizuka-camera-server.git
+[submodule "onizuka-kinect-server"]
+	path = onizuka-kinect-server
+	url = git://github.com/crertel/onizuka-kinect-server.git
